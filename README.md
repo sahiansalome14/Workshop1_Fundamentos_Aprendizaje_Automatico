@@ -1,2 +1,2 @@
-# Workshop1_Fundamentos_Aprendizaje_Automatico
+# Titanic
 Integrantes:
